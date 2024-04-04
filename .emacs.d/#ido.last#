@@ -1,0 +1,284 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/theo.prost/.config/" . "alacritty/")
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/" . "stack/")
+ ("/home/theo.prost/afs/Piscine/" . "epita-ing-assistants-acu-piscine-2026-theo.prost/")
+ ("/home/theo.prost/afs/Programs/" . "setup_c_env/")
+ ("/home/theo.prost/afs/" . "Piscine/")
+ ("/home/theo.prost/" . "afs/")
+ ("/root/Theo/EPITA/Cours/" . "LatexTests/")
+ ("/root/Theo/EPITA/" . "Cours/")
+ ("/root/Theo/EPITA/Rust_TPs/basics/" . "facto/")
+ ("/root/Theo/EPITA/C_TPs/http_server/ttt_server/" . "www/")
+ ("/root/Theo/EPITA/C_TPs/http_server/" . "ttt_server/")
+ ("/root/Theo/Programming/Abacus/" . "src/")
+ ("/root/Theo/EPITA/C_TPs/tcp_server/" . "bc_server/")
+ ("/root/Theo/EPITA/C_TPs/" . "http_server/")
+ ("/root/Theo/Programming/C/Abacus/" . "src/")
+ ("/root/Theo/Programming/Python/Jupyter/" . "Exos_Karim/")
+ ("/root/Theo/Programming/C/" . "Abacus/")
+ ("/root/Theo/Programming/" . "Abacus/")
+ ("/root/Theo/EPITA/C_TPs/threads/" . "basics/")
+ ("/root/Theo/C/" . "seven-segments-display/")
+ ("/root/Theo/Rust/hello/" . "src/")
+ ("/root/Theo/" . "EPITA/")
+ ("/root/" . "Theo/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/lakes/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/stack/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strtok_r/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strlen/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strstr/"
+ "/home/theo.prost/afs/Programs/setup_c_env/"
+ "/home/theo.prost/.config/alacritty/"
+ "/home/theo.prost/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strcmp/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strcasecmp/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strlowcase/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strcpy/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_calloc/"
+ "/home/theo.prost/afs/Piscine/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/bubble_sort/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/selection_sort/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/str_revert/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/palindrome/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/pi_generator/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_pow/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/pine/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/display_square/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/int_palindrome/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/digit/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/hanoi/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/alphabet/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/int_sqrt/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/number_digits_rec/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/fact/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/fibo/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/greatest_divisor/"
+ "/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_round/"
+ "/home/theo.prost/afs/Playground/"
+ "/root/"
+ "/root/Theo/EPITA/Cours/LatexTests/"
+ "/root/Theo/Programming/Abacus/src/"
+ "/root/Theo/Programming/first-fractal-rendering/"
+ "/root/Theo/Programming/Abacus/"
+ "/root/Theo/EPITA/C_TPs/http_server/ttt_server/www/"
+ "/root/Theo/EPITA/C_TPs/http_server/ttt_server/"
+ "/root/Theo/EPITA/C_TPs/threads/basics/"
+ "/root/Theo/EPITA/C_TPs/multithread_server/"
+ "/root/Theo/EPITA/C_TPs/http_server/web_server/"
+ "/root/Theo/Programming/everynoise/"
+ "/root/Theo/EPITA/C_TPs/tcp_server/echo_server/"
+ "/root/Theo/Programming/C/Abacus/src/"
+ "/root/Theo/Programming/C/dot-generator/"
+ "/root/Theo/Programming/C/Abacus/"
+ "/root/Theo/EPITA/C_TPs/tcp_server/bc_server/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Makefile"
+ "main.c"
+ "stack.h"
+ "stack.c"
+ "lakes-example.c"
+ "my_strtok_r.c"
+ "my_strtok_r.h"
+ "my_strlen.c"
+ "my_strstr.c"
+ "setup.sh"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/lakes/" (25887 4850 0 1000) "main" "lakes.o" "Makefile" "main.o" "lakes.h" "lakes.c" "main.c" "lake.in" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/stack/" (25886 52875 0 1000) "Makefile" "main.c" "stack.h" "stack.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/" (25887 3353 0 1000) "lakes/" "my_strtok_r/" "my_strstr/" "stack/" "clean_all.sh" "levenshtein/" "int_vector_bubble_sort/" "int_vector_insert_sort/" "int_vector_max/" "int_vector_hill/" "int_vector_print/" "int_vector_vice_max/" "int_mats_mult/" "lookup_table/" "freq_analysis/" "handling_complex/" "binary_search_ptr/" "my_itoa_base/" "my_atoi_base/" "binary_search/" "element_count/" "array_max_min/" ".clang-format" "my_itoa/" "my_atoi/" "hill_array/" "vigenere/" "ascii_carousel/" "check_alphabet/" "my_strspn/" "my_strcasecmp/" "my_strlowcase/" "my_strcmp/" "my_strcpy/" "my_calloc/" "bubble_sort/" "selection_sort/" "str_revert/" "palindrome/" "my_strlen/" "pi_generator/" "my_pow/" "pine/" "display_square/" "int_palindrome/" "digit/" "hanoi/" "alphabet/" "number_digits_rec/" "glob_remove_shell/" "int_sqrt/" "fact/" "greatest_divisor/" "fibo/" "fibo_iter/" "clang-format/" "repeat/" "assignment_operator/" "my_round/" "hello_friends/" "pointer_swap/" "add_int_ptr/" "my_abs/" "grade/" "highest_common_factor/" "glob_easy/" "fact_iter/" "using_special_variables/" "right_tarball/" "my_first_variable/" "my_file/" "inside_noif/" "inside/" "hello_world_shebang/" "hello_world/" "generate_files/" "create_files/" "ascii_house/" ".git/" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strtok_r/" (25887 161 0 1000) "main" "my_strtok_r.o" "main.o" "my_strtok_r_copy.c" "Makefile" "main.c" "my_strtok_r.h" "my_strtok_r.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strlen/" (25885 16955 0 1000) "Makefile" "main.c" "my_strlen.h" "my_strlen.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strstr/" (25886 53832 0 1000) "main" "main.o" "my_strstr.o" "Makefile" "main.c" "my_strstr.h" "my_strstr.c" "../" "./")
+
+ ("/home/theo.prost/afs/Programs/setup_c_env/" (25885 6033 0 1000) "#Makefile#" "setup.sh" "Makefile" "main.c" "../" "./")
+
+ ("/home/theo.prost/afs/Programs/" (25885 5855 0 1000) "Makefile" "setup_c_env/" "main.c" "foo.h" "foo.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/" (25886 21163 0 1000) "macro.h" "td2.h" "td3" "td3.c" "td2.c" "epita-ing-assistants-acu-piscine-2026-theo.prost/" "array_min_max.h" "my_strlowcase.h" "my_strlowcase.c" "array_min_max.c" "Makefile" "my_strlen.h" "my_strlen.c" "memory_td.c" "main.c" "td4/" "../" "./")
+
+ ("/home/theo.prost/.config/alacritty/" (25886 40195 0 1000) "alacritty.yml" "../" "./")
+
+ ("/home/theo.prost/" (25886 39924 538566 152000) "afs/" ".local/" ".compose-cache/" ".fehbg" ".cache/" ".nix-profile/" "Downloads/" ".bash_history" ".tig_history" ".bashrc" ".config/" ".emacs" ".emacs.d/" ".emacs.rc/" ".emacs.snippets/" ".gitconfig" ".gitignore" ".jnewsrc" ".mozilla/" ".msmtprc" ".muttrc" ".signature" ".slrnrc" ".ssh/" ".vim/" ".vimrc" ".Xdefaults" ".Xauthority" ".fancy-git/" ".bashrc.backup" ".fonts/" ".lesshst" "DejaVu-Sans-Mono-Nerd-Font-Complete-Mono.ttf" "DejaVu-Sans-Mono-Nerd-Font-Complete.ttf" "JetBrains-Mono-Medium-Nerd-Font-Complete-Mono.ttf" "JetBrains-Mono-Regular-Nerd-Font-Complete-Mono.ttf" "Sauce-Code-Pro-Nerd-Font-Complete-Windows-Compatible.ttf" "SourceCodePro+Powerline+Awesome+Regular.ttf" "../" "./")
+
+ ("/home/theo.prost/.config/fonts/" (25882 48990 0 1000) "OperatorMono_Nerd_Font/" "../" "./")
+
+ ("/home/theo.prost/.config/" (25886 39415 0 1000) "alacritty/" "wireshark/" "themes/" "fonts/" "i3_backup/" "nixpkgs/" "GIMP/" "geany/" "Thunar/" "procps/" "htop/" "xfce4/" "menus/" "JetBrains/" "dconf/" "gtk-3.0/" "gedit/" "enchant/" "chromium/" "discord/" "teams/" "autostart/" "mimeapps.list" "Microsoft/" "Microsoft Teams - Preview/" "pulse/" "i3/" ".keep" "../" "./")
+
+ ("/home/theo.prost/afs/" (25885 8823 0 1000) "Programs/" "SPE_TPs/" "AFIT/" "Playground/" "main.c" "Piscine/" "Pediluve/" "dotfiles/" ".clang-format" "SUP_TPs/" ".confs/" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strcmp/" (25884 27232 0 1000) "Makefile" "main.c" "my_strcmp.h" "my_strcmp.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strcasecmp/" (25884 27456 0 1000) "main" "my_strcasecmp.o" "main.o" "Makefile" "main.c" "my_strcasecmp.h" "my_strcasecmp.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strlowcase/" (25884 26839 0 1000) "Makefile" "main.c" "my_strlowcase.h" "my_strlowcase.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_strcpy/" (25884 25962 0 1000) "main" "my_strcpy.o" "main.o" "Makefile" "main.c" "my_strcpy.h" "my_strcpy.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_calloc/" (25884 25292 0 1000) "main" "my_calloc.o" "main.o" "Makefile" "main.c" "my_calloc.h" "my_calloc.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/bubble_sort/" (25884 24964 0 1000) "Makefile" "main.c" "bubble_sort.h" "bubble_sort.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/selection_sort/" (25884 23860 0 1000) "main" "selection_sort.o" "main.o" "Makefile" "main.c" "selection_sort.h" "selection_sort.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/str_revert/" (25884 23317 0 1000) "main" "str_revert.o" "main.o" "Makefile" "main.c" "str_revert.h" "str_revert.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/palindrome/" (25884 22646 0 1000) "main" "palindrome.o" "main.o" "Makefile" "main.c" "palindrome.h" "palindrome.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/pi_generator/" (25884 16463 0 1000) "pi.decimal" "main" "pi_generator.o" "main.o" "Makefile" "main.c" "pi_generator.h" "pi_generator.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_pow/" (25884 13740 0 1000) "Makefile" "main.c" "my_pow.h" "my_pow.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/pine/" (25884 13024 0 1000) "main" "pine.o" "main.o" "Makefile" "main.c" "pine.h" "pine.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/display_square/" (25884 11261 0 1000) "main" "display_square.o" "main.o" "Makefile" "main.c" "display_square.h" "display_square.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/digit/" (25884 9357 0 1000) "Makefile" "main.c" "digit.h" "digit.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/int_palindrome/" (25884 10704 0 1000) "Makefile" "main.c" "int_palindrome.h" "int_palindrome.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/hanoi/" (25884 7372 0 1000) "main" "hanoi.o" "main.o" "Makefile" "main.c" "hanoi.h" "hanoi.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/int_sqrt/" (25884 4354 0 1000) "Makefile" "main.c" "int_sqrt.h" "int_sqrt.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/alphabet/" (25884 4418 0 1000) "Makefile" "alphabet" "alphabet.c" "../" "./")
+
+ ("/home/theo.prost/afs/Playground/" (25883 50870 0 1000) "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/my_round/" (25883 65231 0 1000) "main" "my_round.o" "main.o" "Makefile" "main.c" "my_round.h" "my_round.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/fibo/" (25884 2322 0 1000) "Makefile" "main.c" "fibo.h" "fibo.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/fact/" (25884 3207 0 1000) "Makefile" "main.c" "fact.h" "fact.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/number_digits_rec/" (25884 3207 0 1000) "main" "number_digits_rec.o" "main.o" "Makefile" "main.c" "number_digits_rec.h" "number_digits_rec.c" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/greatest_divisor/" (25884 375 0 1000) "main" "main.o" "greatest_divisor.o" "Makefile" "main.c" "greatest_divisor.h" "greatest_divisor.c" "../" "./")
+
+ ("/afs/cri.epita.fr/user/t/th/theo.prost/u/.confs/" (25883 53155 0 1000) "emacs.d/" "emacs.snippets/" "emacs~" "emacs.rc/" "vimrc" "slrnrc" "signature" "muttrc" "msmtprc" "jnewsrc" "gitignore" "gitconfig" "emacs" "bashrc" "Xdefaults" ".gitmodules" "install.sh" "vim/" "ssh/" "mozilla/" "config/" ".git/" "../" "./")
+
+ ("/home/theo.prost/afs/Piscine/epita-ing-assistants-acu-piscine-2026-theo.prost/assignment_operator/" (25883 50207 0 1000) "assignment_operator.c" "../" "./")
+
+ ("/home/theo.prost/.config/nixpkgs/" (25882 37524 0 1000) "../" "./")
+
+ ("/home/theo.prost/afs/Pediluve/" (25877 37862 0 1000) "epita-ing-assistants-acu-git-workshop-1-2026-theo.prost/" "epita-ing-assistants-acu-pediluve-2026-theo.prost/" "../" "./")
+
+ ("/root/Theo/EPITA/Cours/LatexTests/" (25847 15287 192899 992000) "./" "../" "doc.log" "doc.pdf" "doc")
+
+ ("/root/Theo/EPITA/Cours/" (25847 9152 604306 558000) "./" "../" "LatexTests/")
+
+ ("/root/Theo/EPITA/" (25847 9145 203781 679000) "./" "../" "Rust_TPs/" "C_TPs/" "Cours/")
+
+ ("/root/Theo/Programming/Abacus/tests/" (25708 21292 31061 157000) "./" "../" "functions" "output/" "operator_precedence" "basic_operations")
+
+ ("/root/Theo/Programming/Abacus/" (25708 21438 902576 900000) "main.c" "TODO" "./" "../" "graph.dot" "Makefile" "graph.svg" "abacus" ".git/" "README.md" "tests/" ".gitignore" "src/")
+
+ ("/root/Theo/Programming/Abacus/src/" (25708 21184 922664 285000) "ast_operations.h" "./" "errors.h" "../" "sv.h" "ast.h" "errors.c" "ast_operations.c" "test.c" "test.h" "token.h" "token.c" "ast.c")
+
+ ("/root/Theo/Programming/first-fractal-rendering/" (25771 3065 808053 403000) "main.c" "./" "../" "main" "Makefile" "output.ppm" "output.png")
+
+ ("/root/Theo/temp/" (25707 62876 713726 445000) "main.c" "./" "../" "a.out" "test.png")
+
+ ("/root/Theo/EPITA/Rust_TPs/basics/facto/" (25703 4594 597298 70000) "./" "../" "Cargo.toml" "Cargo.lock" "src/")
+
+ ("/root/Theo/EPITA/Rust_TPs/basics/" (25703 5526 468134 303000) "./" "../" "fibo/" "facto/" "isqrt/" "power_of_two/")
+
+ ("/root/Theo/EPITA/Rust_TPs/basics/fibo/" (25703 5111 200753 663000) "./" "../" "Cargo.toml" "Cargo.lock" "src/")
+
+ ("/root/Theo/EPITA/Rust_TPs/basics/fibo/src/" (25703 5077 947961 83000) "./" "../" "main.rs")
+
+ ("/root/.emacs.d/" (25647 40375 575286 438000) "./" "../" "snippets/" "ido.last" "ido.last~" "auto-save-list/" "transient/" "elpa/" "smex-items" ".mc-lists.el")
+
+ ("/root/Theo/Programming/everynoise/" (25632 562 462009 353000) "./" "../" ".main.py.swp" "page.html" "main.py")
+
+ ("/root/Theo/EPITA/C_TPs/http_server/web_server/" (25647 39311 634438 953000) "./" "../" "multithreaded" "print_resource.c" "multithreaded.c" "Makefile" "www/" "print_request.c" "single_threaded" "single_threaded.c")
+
+ ("/root/Theo/EPITA/C_TPs/threads/basics/" (25647 39269 721022 487000) "./" "../" "Makefile" "hello.c" "hello_id.c" "hello_parity.c")
+
+ ("/root/Theo/EPITA/C_TPs/http_server/ttt_server/www/" (24157 3485 0 0) "./" "busy.html" "../" "favicon.ico" "style.css" "blank.png" "script.js" "grid.html" "x.png" "new_player.html" "o.png")
+
+ ("/root/Theo/EPITA/C_TPs/http_server/ttt_server/" (25647 39667 514713 80000) "./" "../" "multithreaded.c" "www/" "ttt_server")
+
+ ("/root/Theo/EPITA/C_TPs/http_server/" (25647 39609 369872 799000) "ttt_server.tar.bz2" "./" "../" "ttt_server.tar.bz2:Zone.Identifier" "web_server/" "ttt_server/")
+
+ ("/root/Theo/EPITA/C_TPs/multithread_server/" (25647 38985 846624 744000) "./" "../" "Makefile" "queue.h" "test_shared_queue.c" "test_shared_queue.o" "server.c" "shared_queue.c" "shared_queue.o" "queue.o" "queue.c" "shared_queue.h" "test_shared_queue")
+
+ ("/root/Theo/EPITA/C_TPs/tcp_server/echo_server/" (25643 2913 939450 749000) "echo.h" "./" "../" "Makefile" "echo.c" "echo_test.c" "single_server.c" "loop_server.c" "fork_server.c")
+
+ ("/root/Theo/EPITA/C_TPs/" (25643 4615 951653 730000) "./" "../" "multithread_server/" "tcp_client/" "my_malloc/" "threads/" "tcp_server/" "temp/" "http_server/")
+
+ ("/root/Theo/Programming/" (25638 22854 228344 366000) "./" "../" "everynoise/" "dot-generator/" "Abacus/" "eratosthenes/" "first-fractal-rendering/" "seven-segments-display/")
+
+ ("/root/Theo/" (25624 693 673523 832000) "./" "../" "EPITA/" "rexim_dotfiles/" "dot_emacs.d/" "github_token" "dot_emacs_backup" "temp/" "Programming/" "Documents/")
+
+ ("/root/Theo/Programming/C/Abacus/src/" (25620 3277 379520 166000) "ast_operations.h" "./" "../" "sv.h" "#ast2.c#" "ast.h" "ast_operations.c" "test.c" "test.h" "token.h" "token.c" "ast2.c" "ast.c")
+
+ ("/root/Theo/Programming/C/dot-generator/" (25618 31496 71211 920000) "main.c" "./" "../" "graph.dot" "main" "Makefile" "graph.svg")
+
+ ("/root/Theo/Programming/C/" (25617 64859 79088 872000) "./" "../" "dot-generator/" "Abacus/" "seven-segments-display/")
+
+ ("/root/Theo/EPITA/C_TPs/tcp_server/bc_server/" (25617 3223 3795 746000) "main.c" "./" "../" "main" "Makefile" "main.o" "main.d")
+
+ ("/root/Theo/Programming/C/Abacus/" (25617 64216 327619 560000) "main.c" "./" "../" "graph.dot" "Makefile" "graph.svg" "abacus" ".git/" "README.md" "tests/" ".gitignore" "src/")
+
+ ("/root/Theo/EPITA/C_TPs/tcp_server/" (25596 61532 387510 371000) "./" "../" "echo_server/" "bc_server/")
+
+ ("/root/Theo/Programming/C/Abacus/tests/" (25613 16183 126222 897000) "./" "../" "functions" "output/" "operator_precedence" "basic_operations")
+
+ ("/usr/share/doc/" (25613 16691 499414 750000) "libsixel1/" "curl/" "fonts-cantarell/" "libntfs-3g89/" "libgcrypt20/" "gcc-11/" "netplan.io/" "librole-tiny-perl/" "libpcre2-8-0/" "libgif7/" "dmeventd/" "libjson-glib-1.0-0/" "libunwind8/" "libjcat1/" "fuse3/" "libxrender1/" "libcephfs2/" "libyaml-0-2/" "tmux/" "w3m-img/" "libnewt0.52/" "powermgmt-base/" "perl-modules-5.30/" "libffi7/" "openssh-server/" "libasan5/" "python3-tdb/" "libxcb-glx0/" "xkb-data/" "clang-14/" "llvm-14-dev/" "libkadm5clnt-mit12/" "libfido2-1/" "fonts-noto-mono/" "libsub-exporter-progressive-perl/" "jp2a/" "libsmartcols1/" "python3-lib2to3/" "librsvg2-2/" "libinih1/" "gpgconf/" "libbz2-1.0/" "imagemagick/" "libxrandr2/" "python3-pyasn1/" "python3-incremental/" "emacs-el/" "distro-info/" "libclass-method-modifiers-perl/" "python3-talloc/" "mime-support/" "libutempter0/" "libpython3.8-minimal/" "libopeniscsiusr/" "libestr0/" "dosfstools/" "tpm-udev/" "fontforge/" "gpg-agent/" "libde265-0/" "libxmuu1/" "libmagickcore-6-headers/" "liblab-gamut1/" "libffi8/" "libbabeltrace1/" "libdns-export1110/" "libxtables12/" "libxslt1.1/" "libjson-c4/" "libharfbuzz0b/" "libgomp1/" "libgdk-pixbuf-2.0-0/" "gir1.2-packagekitglib-1.0/" "dh-elpa-helper/" "gcc-9-base/" "lib32stdc++6/" "librsvg2-common/" "python3-launchpadlib/" "libx11-6/" "kbd/" "libc-dev-bin/" "libpython3.10-minimal/" "libpackage-stash-perl/" "libdebuginfod1/" "libllvm12/" "xsel/" "cloud-initramfs-dyn-netconf/" "libterm-readkey-perl/" "libtsan0/" "libssl3/" "libmoo-perl/" "policykit-1/" "python3-pyparsing/" "libtss2-tcti-device0/" "libcurl3-gnutls/" "locales/" "python-babel-localedata/" "gettext-base/" "libjbig2dec0/" "libjpeg8/" "session-migration/" "libb-hooks-op-check-perl/" "libsm6/" "libblockdev-loop2/" "libmagic1/" "libalgorithm-merge-perl/" "samba/" "python3-distro-info/" "logrotate/" "libotf1/" "libclang-common-14-dev/" "wslu/" "libclang-cpp14/" "libgdk-pixbuf2.0-0/" "glib-networking-common/" "fontforge-common/" "libregexp-common-perl/" "caca-utils/" "libsasl2-2/" "libgdbm6/" "libllvm9/" "libssh-4/" "libkeyutils1/" "libp11-kit0/" "libnss-nisplus/" "dconf-service/" "libmaxminddb0/" "apt-transport-https/" "mdadm/" "bolt/" "libtdb1/" "libpopt0/" "udev/" "libext2fs2/" "libc6-dbg/" "init/" "lsof/" "debianutils/" "libxcb-sync1/" "python3-gpg/" "libtss2-mu0/" "libtasn1-6/" "python3-secretstorage/" "fwupd-signed/" "mailcap/" "libflac8/" "libpackagekit-glib2-18/" "libreadline8/" "icu-devtools/" "libdjvulibre21/" "eatmydata/" "zsh-common/" "python3-commandnotfound/" "python3-six/" "imagemagick-6.q16/" "libglib2.0-bin/" "overlayroot/" "rsyslog/" "init-system-helpers/" "motd-news-config/" "psmisc/" "libalgorithm-diff-xs-perl/" "ssh-import-id/" "libnghttp2-14/" "libidn11/" "libitm1/" "libunistring2/" "pulseaudio-utils/" "fonts-droid-fallback/" "libgpm2/" "libdeflate0/" "python3-colorama/" "cryptsetup-initramfs/" "libjs-jquery/" "libx11-data/" "python3-pyasn1-modules/" "libexpat1-dev/" "libpython3.8-dev/" "usbutils/" "ninja-build/" "libcap2/" "libxcb-render0/" "ubuntu-mono/" "gcc-10-base/" "libsodium23/" "python3-newt/" "libatspi2.0-0/" "python3-pexpect/" "python3-lazr.uri/" "libvolume-key/" "libaio1/" "python3-openssl/" "libxv1/" "python3-distutils/" "tzdata/" "libpci3/" "libblockdev-fs2/" "libboost-iostreams1.71.0/" "build-essential/" "libargon2-1/" "ca-certificates/" "libtss2-tcti-cmd0/" "libmagickcore-6.q16-6/" "gsettings-desktop-schemas/" "libstdc++-11-dev/" "python3-jsonschema/" "libparams-classify-perl/" "software-properties-common/" "libpipeline1/" "vim-common/" "libdrm-nouveau2/" "bzip2/" "libpangoft2-1.0-0/" "info/" "libgvpr2/" "libnpth0/" "liblz4-1/" "kmod/" "libxtst6/" "ncal/" "libmnl0/" "vim-tiny/" "dmsetup/" "libudev1/" "ltrace/" "ghostscript/" "perl-modules-5.34/" "libtry-tiny-perl/" "libreadline5/" "libdb5.3/" "libtss2-sys1/" "sosreport/" "libatomic1/" "libefiboot1/" "multipath-tools/" "mesa-vulkan-drivers/" "bsdextrautils/" "libepoxy0/" "libmbim-proxy/" "libnettle7/" "libgl1/" "sysvinit-utils/" "perl/" "libevent-core-2.1-7/" "libpulsedsp/" "tcl/" "xauth/" "libacl1/" "libxcomposite1/" "sos/" "libelf1/" "libgstreamer1.0-0/" "python3-automat/" "cpio/" "libxxf86dga1/" "python3-zope.interface/" "update-motd/" "cloc/" "libgdk-pixbuf2.0-bin/" "python3-cryptography/" "libobjc4/" "libglib2.0-0/" "libicu-dev/" "libmagic-mgc/" "libxxhash0/" "fonts-ubuntu-console/" "libisl22/" "needrestart/" "libftdi1-2/" "libxmlb1/" "libblockdev-part-err2/" "secureboot-db/" "cpp-11/" "libssl1.1/" "libgnutls30/" "fonts-inconsolata/" "libfftw3-double3/" "at-spi2-core/" "librtmp1/" "libintl-xs-perl/" "ncurses-base/" "gcc-12-base/" "liburcu6/" "libvulkan1/" "libthai0/" "open-iscsi/" "libnspr4/" "libsmbios-c2/" "linux-libc-dev/" "ufw/" "samba-common-bin/" "libtext-wrapi18n-perl/" "libarchive13/" "distro-info-data/" "toilet-fonts/" "libltdl7/" "run-one/" "libid3tag0/" "coreutils/" "libwayland-client0/" "kpartx/" "libbinutils/" "libdevmapper1.02.1/" "libgdk-pixbuf-xlib-2.0-0/" "bind9-host/" "python3-jsonpatch/" "python-apt-common/" "fontconfig/" "gpgsm/" "libnatpmp1/" "install-info/" "file/" "polkitd/" "python3-more-itertools/" "libmpc3/" "python3-software-properties/" "fonts-dejavu-core/" "libcc1-0/" "python3.10-dev/" "libnuma1/" "python3-pip/" "transmission-cli/" "libgpg-error0/" "librados2/" "python3-packaging/" "python3-pyrsistent/" "libsource-highlight-common/" "libsoup2.4-1/" "dbus/" "libibverbs1/" "time/" "usb.ids/" "libflashrom1/" "libtext-iconv-perl/" "python3-systemd/" "python3-setuptools/" "libwind0-heimdal/" "libfribidi0/" "libchafa0/" "libksba8/" "libldap-common/" "libhogweed5/" "usb-modeswitch/" "libsoup-gnome2.4-1/" "hostname/" "libattr1/" "libappstream4/" "libaom3/" "libcanberra0/" "libqmi-proxy/" "rpcsvc-proto/" "libwmflite-0.2-7/" "libpciaccess0/" "gdisk/" "libxt6/" "python3-samba/" "libblockdev-swap2/" "libsort-naturally-perl/" "libdrm-radeon1/" "libheif1/" "popularity-contest/" "debconf/" "libparted2/" "desktop-file-utils/" "cpp-9/" "thin-provisioning-tools/" "libmd0/" "iptables/" "libwebp6/" "python3-pymacaroons/" "python3-hyperlink/" "toilet/" "python3-hamcrest/" "findutils/" "libgl1-amber-dri/" "libwayland-cursor0/" "libimlib2/" "python3.8-minimal/" "libwmf-0.2-7/" "unattended-upgrades/" "libjson-c5/" "libvorbis0a/" "cloud-guest-utils/" "libcaca0/" "libboost-regex1.74.0/" "libpam-systemd/" "libbpf0/" "libwrap0/" "gcc-9/" "libgts-bin/" "iputils-tracepath/" "libroken18-heimdal/" "libfuse3-3/" "keyboard-configuration/" "libxmlsec1/" "libicu70/" "libevent-2.1-7/" "libperl5.34/" "libxxf86vm1/" "bcache-tools/" "libbrotli1/" "libpaper1/" "libgcab-1.0-0/" "python3-urllib3/" "libtalloc2/" "libcdt5/" "libmpdec2/" "libtinfo-dev/" "liburcu8/" "hicolor-icon-theme/" "squashfs-tools/" "libopus0/" "libc6-dev/" "apt-utils/" "fakeroot/" "libwbclient0/" "pastebinit/" "libbsd0/" "adduser/" "e2fsprogs/" "libkadm5clnt-mit11/" "libmpfr6/" "libkdb5-10/" "libgs9-common/" "javascript-common/" "gh/" "pinentry-curses/" "libtevent0/" "readline-common/" "libmm-glib0/" "libxinerama1/" "libpython3-stdlib/" "fonts-liberation/" "whiptail/" "sg3-utils/" "libpcap0.8/" "xxd/" "libotf0/" "libboost-thread1.74.0/" "glib-networking-services/" "modemmanager/" "python3-importlib-metadata/" "libdpkg-perl/" "libijs-0.35/" "libnftnl11/" "libmodule-implementation-perl/" "libx265-199/" "libjxr-tools/" "libpsl5/" "libblkid1/" "cmake-data/" "python3-dnspython/" "libmbim-glib4/" "libpango-1.0-0/" "libxkbcommon0/" "libcurl4/" "libuninameslist1/" "libsensors5/" "wsl-setup/" "diffutils/" "libjansson4/" "packagekit-tools/" "libmagickwand-6-headers/" "patch/" "libwoff1/" "libice6/" "media-types/" "libcrypt1/" "lshw/" "libb-hooks-endofscope-perl/" "libpolkit-agent-1-0/" "libatm1/" "libann0/" "libsepol2/" "linux-base/" "libgraphite2-3/" "libasound2-data/" "libfwupdplugin5/" "netpbm/" "libcairo-gobject2/" "transmission-daemon/" "systemd-hwe-hwdb/" "sensible-utils/" "libblockdev-crypto2/" "libxcb-randr0/" "libzstd1/" "libdconf1/" "libhogweed6/" "libaudit-common/" "gdb/" "logsave/" "python3-bcrypt/" "python3-oauthlib/" "libxcb-xfixes0/" "libvorbisenc2/" "udisks2/" "htop/" "libxcb-present0/" "python3.8-dev/" "krb5-locales/" "g++-11/" "libjs-sphinxdoc/" "packagekit/" "python3-cffi-backend/" "libsub-quote-perl/" "dash/" "libfuse2/" "libalgorithm-diff-perl/" "gcc-11-base/" "libisl23/" "make/" "libnss-nis/" "libgirepository-1.0-1/" "libstdc++-9-dev/" "libip4tc2/" "dirmngr/" "libnl-3-200/" "openssh-sftp-server/" "libsemanage-common/" "libmodule-find-perl/" "libtirpc-dev/" "glib-networking/" "fonts-ubuntu/" "sg3-utils-udev/" "open-vm-tools/" "python3-dev/" "libxi6/" "libldb2/" "libcbor0.6/" "usrmerge/" "tcpdump/" "libgusb2/" "libipt2/" "parted/" "libxfixes3/" "liblzo2-2/" "libhx509-5-heimdal/" "zerofree/" "python3.10-minimal/" "librhash0/" "debconf-i18n/" "libasn1-8-heimdal/" "libatk-bridge2.0-0/" "show-motd/" "libfreetype6/" "lto-disabled-list/" "libubsan1/" "mawk/" "passwd/" "libdjvulibre-text/" "imagemagick-6-common/" "libm17n-0/" "libopenexr24/" "liberror-perl/" "libmount1/" "openssl/" "mtr-tiny/" "libnetplan0/" "libintl-perl/" "python3.10/" "libllvm15/" "libxshmfence1/" "libsystemd0/" "python3-pygments/" "transmission-common/" "libilmbase25/" "base-passwd/" "busybox-initramfs/" "libnamespace-clean-perl/" "libvariable-magic-perl/" "libwmf0.2-7/" "libnettle8/" "cron/" "libplymouth5/" "pci.ids/" "pandoc-data/" "libpulse0/" "python3-simplejson/" "libpython3.8-stdlib/" "python3-serial/" "libnfnetlink0/" "python3-dbus/" "libwebp7/" "libk5crypto3/" "libldap-2.5-0/" "systemd-sysv/" "x11-utils/" "btrfs-progs/" "accountsservice/" "libtss2-esys-3.0.2-0/" "libcairo2/" "python3-ldb/" "libtcl8.6/" "gir1.2-glib-2.0/" "libqmi-glib5/" "libefivar1/" "libcmark-gfm-extensions0.29.0.gfm.3/" "libtext-charwidth-perl/" "libpaper-utils/" "samba-vfs-modules/" "groff-base/" "libpfm4/" "python3-minimal/" "libsepol1/" "libisc-export1105/" "libxml2/" "gcc/" "plymouth-theme-ubuntu-text/" "libclang1-14/" "libjson-glib-1.0-common/" "libllvm14/" "libasan6/" "iproute2/" "python3-attr/" "alsa-topology-conf/" "libss2/" "samba-common/" "libdynaloader-functions-perl/" "libgfrpc0/" "libatasmart4/" "libogg0/" "libtiff5/" "libncursesw6/" "fonts-urw-base35/" "libmspack0/" "libdav1d5/" "screen/" "zlib1g/" "llvm-14-linker-tools/" "libblockdev-utils2/" "libwebpdemux2/" "python3-constantly/" "gawk/" "bsdutils/" "bash-completion/" "libuchardet0/" "zsh/" "libcryptsetup12/" "libsqlite3-0/" "libpam-cap/" "libxft2/" "ubuntu-minimal/" "libmpdec3/" "emacsen-common/" "emacs-common/" "grep/" "hdparm/" "fdisk/" "zstd/" "python3-nacl/" "libc6/" "libpangocairo-1.0-0/" "libtinfo6/" "xdg-user-dirs/" "nftables/" "libhcrypto4-heimdal/" "tdb-tools/" "libgudev-1.0-0/" "python3/" "libgmp10/" "libxcb-shape0/" "libsoup2.4-common/" "libxmlsec1-openssl/" "w3m/" "command-not-found/" "libeatmydata1/" "libgl1-mesa-dri/" "libjsoncpp25/" "ucf/" "telnet/" "libdrm-amdgpu1/" "libfontconfig1/" "libselinux1/" "libsensors-config/" "valgrind/" "libusb-1.0-0/" "libdrm-common/" "libcap-ng0/" "liblocale-gettext-perl/" "bsdmainutils/" "libboost-iostreams1.74.0/" "dpkg-dev/" "libproxy1v5/" "python3-jinja2/" "python3-service-identity/" "libglx-mesa0/" "dbus-x11/" "libpathplan4/" "libfl2/" "libx11-xcb1/" "humanity-icon-theme/" "cmake/" "libctf0/" "tcl8.6/" "python3-gi/" "lib32gcc-s1/" "clang/" "libtss2-tcti-mssim0/" "ubuntu-keyring/" "irqbalance/" "libntfs-3g883/" "pkg-config/" "libudisks2-0/" "libsasl2-modules-db/" "xclip/" "sshfs/" "libglx0/" "sudo/" "x11-common/" "libglib2.0-data/" "libtss2-tcti-swtpm0/" "libglusterfs0/" "libglapi-mesa/" "libfdisk1/" "libblockdev-part2/" "netplan/" "libwebpmux3/" "uuid-runtime/" "python3-tz/" "libxkbfile1/" "language-selector-common/" "libstemmer0d/" "libnl-route-3-200/" "libsemanage2/" "ncurses-term/" "gzip/" "librdmacm1/" "libc-bin/" "libassuan0/" "pkexec/" "apparmor/" "unzip/" "ed/" "libquadmath0/" "attr/" "plymouth/" "emacs-bin-common/" "python3-httplib2/" "libpixman-1-0/" "apt/" "python3-jwt/" "bc/" "libpackage-stash-xs-perl/" "liblqr-1-0/" "libtirpc-common/" "libpython3-dev/" "libdatrie1/" "pciutils/" "libjs-underscore/" "python3-markdown/" "usb-modeswitch-data/" "libimport-into-perl/" "strace/" "libvorbisfile3/" "libkrb5support0/" "libgtk-3-bin/" "libisns0/" "libcrypt-dev/" "g++-9/" "libgc1/" "libparted-fs-resize0/" "libfile-fcntllock-perl/" "python3-wadllib/" "git-man/" "python3-lazr.restfulclient/" "wget/" "libctf-nobfd0/" "vim/" "python3-pkg-resources/" "libopenexr25/" "finalrd/" "python3-json-pointer/" "libnl-genl-3-200/" "liblvm2cmd2.03/" "libdrm2/" "poppler-data/" "lz4/" "iso-codes/" "libpython3.10-stdlib/" "libslang2/" "libdw1/" "python3-gdbm/" "libnsl-dev/" "libjpeg-turbo8/" "libxmlb2/" "llvm-14-tools/" "python3-keyring/" "libedit2/" "apport-symptoms/" "libminiupnpc17/" "ftp/" "bind9-libs/" "lvm2/" "python3-zipp/" "gpgv/" "libgfapi0/" "gpg/" "netcat-openbsd/" "cpp/" "klibc-utils/" "rsync/" "libxmu6/" "cryptsetup/" "login/" "libsub-name-perl/" "libavahi-common3/" "libgs9/" "libkadm5srv-mit12/" "liblmdb0/" "libgssapi-krb5-2/" "libdns-export1109/" "python3-entrypoints/" "shared-mime-info/" "python3-debconf/" "libjbig0/" "libxdamage1/" "bind9-dnsutils/" "libpython3.8/" "liblzma5/" "krb5-user/" "gdbserver/" "libdevmapper-event1.02.1/" "libcgraph6/" "libz3-dev/" "libz3-4/" "libnsl2/" "samba-dsdb-modules/" "libpython3.10/" "libwayland-egl1/" "libvolume-key1/" "libxcursor1/" "libasound2/" "libparallel-forkmanager-perl/" "libxau6/" "binutils/" "libnss3/" "libcolord2/" "libthai-data/" "libcbor0.8/" "gtk-update-icon-cache/" "libidn2-0/" "gsfonts/" "libpam-runtime/" "libsource-highlight4v5/" "bash/" "libpng16-16/" "fontconfig-config/" "libkrb5-3/" "libclass-xsaccessor-perl/" "libdevel-callchecker-perl/" "libperl5.30/" "binfmt-support/" "mount/" "libgtk-3-common/" "ubuntu-standard/" "git/" "libfakeroot/" "python3-distupgrade/" "python3-ptyprocess/" "libgssapi3-heimdal/" "libxdmcp6/" "llvm-14-runtime/" "man-db/" "libavahi-client3/" "libseccomp2/" "libxaw7/" "libmagickwand-6.q16-6/" "libgcc-s1/" "libcmark-gfm0.29.0.gfm.3/" "python3-update-manager/" "libcap2-bin/" "libnetfilter-conntrack3/" "libnss-systemd/" "krb5-config/" "python3-debian/" "libavahi-common-data/" "libgfxdr0/" "networkd-dispatcher/" "vim-runtime/" "libnftables1/" "eject/" "libgd3/" "libgtk-3-0/" "systemd-timesyncd/" "initramfs-tools-bin/" "libheimntlm0-heimdal/" "tar/" "samba-libs/" "libpython3.10-dev/" "tnftp/" "libfontforge4/" "binutils-x86-64-linux-gnu/" "libdrm-intel1/" "fwupd/" "cloud-initramfs-copymods/" "python3-twisted/" "console-setup/" "libopenjp2-7/" "netbase/" "perl-base/" "libffi-dev/" "xfsprogs/" "libheimbase1-heimdal/" "libkdb5-9/" "libobjc-11-dev/" "dconf-gsettings-backend/" "initramfs-tools-core/" "libpam-modules/" "neofetch/" "libpcre3/" "libnetpbm10/" "libgts-0.7-5/" "isc-dhcp-common/" "libcom-err2/" "libaudit1/" "adwaita-icon-theme/" "libxcb1/" "libsgutils2-2/" "libgdk-pixbuf2.0-common/" "liburing2/" "libncurses6/" "python3-magic/" "publicsuffix/" "libprocps8/" "libboost-thread1.71.0/" "libsixel-bin/" "libatk1.0-0/" "python3-distro/" "lxd-agent-loader/" "python3-idna/" "python3-chardet/" "python3-yaml/" "libkadm5srv-mit11/" "libpam-modules-bin/" "libuv1/" "gpg-wks-client/" "pandoc/" "libtirpc3/" "libxcb-dri3-0/" "libgcc-11-dev/" "dbus-user-session/" "libglvnd0/" "libasyncns0/" "base-files/" "dmidecode/" "libpam0g/" "sbsigntool/" "libapt-pkg6.0/" "liblcms2-2/" "xz-utils/" "ncurses-bin/" "manpages-dev/" "libgvc6/" "libc6-i386/" "gnupg/" "friendly-recovery/" "gnupg-l10n/" "nano/" "manpages/" "libxml2-dev/" "dpkg/" "gnupg-utils/" "lsb-base/" "ethtool/" "libfwupd2/" "libfastjson4/" "sound-theme-freedesktop/" "emacs-gtk/" "pollinate/" "python3-apt/" "libmagickcore-6.q16-6-extra/" "libgcc-9-dev/" "libaccountsservice0/" "libgdbm-compat4/" "libfwupdplugin1/" "libilmbase24/" "python3-netifaces/" "iputils-ping/" "libfontenc1/" "libncurses-dev/" "libicu66/" "libblockdev2/" "binutils-common/" "python3-problem-report/" "libsigsegv2/" "python3-configobj/" "util-linux/" "libpolkit-gobject-1-0/" "libproc-processtable-perl/" "gpg-wks-server/" "python3.8/" "libldap-2.4-2/" "initramfs-tools/" "procps/" "libsasl2-modules/" "python3-markupsafe/" "libkrb5-26-heimdal/" "python3-jeepney/" "emacs/" "alsa-ucm-conf/" "libxext6/" "python3-wheel/" "libdbus-1-3/" "libsub-identify-perl/" "libgssrpc4/" "ntfs-3g/" "python3-click/" "libgpgme11/" "libatk1.0-data/" "openssh-client/" "busybox-static/" "libjxr0/" "librest-0.7-0/" "byobu/" "libmodule-runtime-perl/" "systemd/" "libkmod2/" "at/" "m17n-db/" "chafa/" "isc-dhcp-client/" "libspiro1/" "sed/" "libdebconfclient0/" "libuuid1/" "cryptsetup-bin/" "lsb-release/" "g++/" "libcups2/" "libxpm4/" "libip6tc2/" "llvm-14/" "libstdc++6/" "cryptsetup-run/" "libxcb-dri2-0/" "libdebuginfod-common/" "tree/" "libmodule-scandeps-perl/" "graphviz/" "zlib1g-dev/" "liblsan0/" "python3-babel/" "ubuntu-advantage-tools/" "libsndfile1/" "libklibc/" "libexpat1/" "python3-blinker/" "libxcb-shm0/" "ibverbs-providers/" "libapparmor1/" "console-setup-linux/" "libidn12/" "less/" "../" "./")
+
+ ("/usr/share/" (25610 25037 568096 343000) "language-tools/" "cmake-3.22/" "common-licenses/" "./" "tcltk/" "misc/" "distro-info/" "libdrm/" "m17n/" "fontforge/" "../" "locales/" "python-babel-localedata/" "session-migration/" "samba/" "wslu/" "dict/" "doc-base/" "color/" "mdadm/" "debianutils/" "ImageMagick-6/" "themes/" "rsyslog/" "pkg-config-crosswrapper" "fonts-droid-fallback/" "keyrings/" "openssh/" "source-highlight/" "drirc.d/" "zoneinfo-icu/" "build-essential/" "ca-certificates/" "zoneinfo/" "info/" "ghostscript/" "perl/" "javascript/" "lintian/" "needrestart/" "pyshared/" "figlet/" "ufw/" "fontconfig/" "file/" "libthai/" "gitweb/" "fonts/" "git-core/" "xml/" "popularity-contest/" "debconf/" "licenses/" "iptables/" "PackageKit/" "tabset/" "unattended-upgrades/" "ModemManager/" "upstart/" "adduser/" "language-selector/" "libcaca/" "bug/" "readline/" "groff/" "djvu/" "netpbm/" "sensible-utils/" "gdb/" "icu/" "open-vm-tools/" "i18n/" "lto-disabled-list/" "base-passwd/" "java/" "icons/" "terminfo/" "accountsservice/" "pkg-config-dpkghook" "X11/" "GConf/" "maven-repo/" "gcc/" "kerberos-configs/" "mime/" "screen/" "bash-completion/" "zsh/" "alsa/" "emacsen-common/" "python3/" "w3m/" "ucf/" "perl5/" "cmake/" "pastebin.d/" "consolefonts/" "poppler/" "netplan/" "libc-bin/" "plymouth/" "fish/" "pixmaps/" "vim/" "finalrd/" "iso-codes/" "sounds/" "secureboot/" "rsync/" "menu/" "cryptsetup/" "metainfo/" "python-apt/" "aclocal/" "doc/" "polkit-1/" "consoletrans/" "man-db/" "transmission/" "applications/" "dbus-1/" "fwupd/" "console-setup/" "thumbnailers/" "man/" "publicsuffix/" "language-support/" "awk/" "pandoc/" "apport/" "base-files/" "binfmts/" "gnupg/" "glib-2.0/" "nano/" "pam-configs/" "dpkg/" "locale/" "defaults/" "initramfs-tools/" "gettext/" "emacs/" "byobu/" "systemd/" "at/" "pkgconfig/" "vulkan/" "pam/" "libdebuginfod-common/" "graphviz/" "usb_modeswitch/")
+
+ ("/usr/" (24225 14503 0 0) "./" "../" "local/" "libx32/" "lib32/" "bin/" "sbin/" "lib64/" "share/" "lib/" "games/" "libexec/" "include/" "src/")
+
+ ("/root/Theo/Programming/C/AST_exploring/" (25609 35318 642698 895000) "main.c" "./" "../" "Makefile" "ast.h" "token.h" "token.c" "input" "ast.c")
+
+ ("/root/Theo/Programming/Python/Jupyter/Exos_Karim/" (25607 51455 274736 731000) "./" "../" "test.ipynb")
+
+ ("/root/Theo/Programming/Python/Jupyter/" (25607 51364 760240 715000) "./" "../" "Exos_Karim/")
+
+ ("/root/Theo/Programming/C/seven-segments-display/" (25606 53877 195056 659000) "main.c" "./" "../" "main" "Makefile" "#main.c#")
+
+ ("/root/Theo/Documents/" (25606 60917 561116 316000) "./" "../" "index.html" "markdown.pl" "emacs_cheatsheet.md" "ubuntu_setup_env.sh")
+
+ ("/root/Theo/Programming/Python/" (25604 18161 960082 784000) "./" "../" "temp.py")
+
+ ("/root/Theo/EPITA/C_TPs/threads/sums/" (25606 29460 507779 159000) "./" "../" "Makefile" "dnc.c" "split.c" "dnc")
+
+ ("/root/Theo/EPITA/C_TPs/threads/" (25606 11798 676235 704000) "./" "../" "basics/" "sums/")
+
+ ("/root/.emacs.rc/" (25601 36622 135062 751000) "./" "../" "rc.el" "autocommit-rc.el" "misc-rc.el" "org-mode-rc.el")
+
+ ("/root/Theo/C/seven-segments-display/" (25601 36227 333987 295000) "main.c" "./" "../" "main" "Makefile")
+
+ ("/root/Theo/Rust/" (25597 367 866738 919000) "./" "../" "hello/" "eratosthenes/")
+
+ ("/root/Theo/Rust/hello/src/" (25560 1721 701804 972000) "./" "../" "main.rs~" "main.rs")
+
+ ("/root/Theo/C/" (25601 27538 294335 849000) "./" "../" "seven-segments-display/")
+
+ ("/root/.emacs.d/elpa/rfc-mode-20230302.1422/" (25601 28949 330883 826000) "./" "../" "rfc-mode.elc" "rfc-mode-pkg.el" "rfc-mode-autoloads.el" "rfc-mode.el")
+
+ ("/root/Theo/Rust/hello/" (25553 30360 851153 309000) "./" "../" "target/" "Cargo.toml" "Cargo.lock" ".git/" ".gitignore" "src/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

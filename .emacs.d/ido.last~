@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/root/Theo/" . "Rust/")
+ ("/root/" . "Theo/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/root/"
+ "/root/Theo/Rust/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "hello.rs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/root/Theo/Rust/" (25553 29384 281156 353000) "./" "../" "hello.rs~" "hello.rs")
+
+ ("/root/Theo/" (25553 29329 121156 525000) "./" "Rust/" "../")
+
+ ("/root/" (25553 29698 61155 375000) "./" "../" "Theo/" ".emacs.d/" "ProjetS3/" ".bashrc" ".ssh/" ".profile" ".emacs~" ".emacs" ".config/" ".motd_shown" ".cargo/" ".bash_history" ".cache/" "Downloads/" "remount.sh" ".rustup/" ".python_history" "afs/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

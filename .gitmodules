@@ -1,0 +1,6 @@
+[submodule "melpa"]
+	path = melpa
+	url = https://github.com/melpa/melpa.git
+[submodule ".emacs.d/quelpa/melpa"]
+	path = .emacs.d/quelpa/melpa
+	url = https://github.com/melpa/melpa.git

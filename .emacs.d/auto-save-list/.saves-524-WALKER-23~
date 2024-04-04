@@ -1,0 +1,14 @@
+/root/Theo/Programming/C/Abacus/main.c
+/root/Theo/Programming/C/Abacus/#main.c#
+/root/Theo/Programming/C/Abacus/token.c
+/root/Theo/Programming/C/Abacus/#token.c#
+/root/Theo/Programming/C/Abacus/token.h
+/root/Theo/Programming/C/Abacus/#token.h#
+/root/Theo/Programming/C/Abacus/ast.c
+/root/Theo/Programming/C/Abacus/#ast.c#
+/root/Theo/Programming/C/Abacus/ast.h
+/root/Theo/Programming/C/Abacus/#ast.h#
+/root/Theo/Programming/C/Abacus/tests/operator_precedence
+/root/Theo/Programming/C/Abacus/tests/#operator_precedence#
+/root/Theo/Programming/C/Abacus/tests/basic_operations
+/root/Theo/Programming/C/Abacus/tests/#basic_operations#
